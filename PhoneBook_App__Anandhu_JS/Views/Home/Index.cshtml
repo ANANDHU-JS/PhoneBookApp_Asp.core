@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <button id="myButton" class="btn btn-lg btn-primary">Phone Book List</button>
+
+    <script>
+        // JavaScript to redirect when button is clicked
+        // use /PhoneBooks  to direct to CRUD of PhoneBooks
+        document.getElementById("myButton").onclick = function () {
+            location.href = "http://localhost:5065/PhoneBooks"; 
+        };
+    </script>
+</div>

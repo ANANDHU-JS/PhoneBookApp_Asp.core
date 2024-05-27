@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\models\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:models\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\controllers\\phonebookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:controllers\\phonebookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\views\\phonebooks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:views\\phonebooks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\views\\phonebooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:views\\phonebooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\views\\phonebooks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:views\\phonebooks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\views\\phonebooks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:views\\phonebooks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\views\\phonebooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:views\\phonebooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\phonebook_app__anandhu_js.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:phonebook_app__anandhu_js.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\migrations\\20240526100031_second commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:migrations\\20240526100031_second commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|c:\\users\\anand\\onedrive\\documents\\visual studio\\phonebook_app__anandhu_js\\migrations\\20240526071101_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071CB34D-2EE3-4F4A-BD45-F5984747F4BE}|PhoneBook_App__Anandhu_JS.csproj|solutionrelative:migrations\\20240526071101_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T10:05:35.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAywHQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:46:13.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv1oAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:32:44.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:21:45.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-26T06:02:49.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:16:43.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneBooksController.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Controllers\\PhoneBooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhoneBooksController.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Controllers\\PhoneBooksController.cs",
+              "RelativeToolTip": "Controllers\\PhoneBooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:03:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Models\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "Models\\PhoneBook.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Models\\PhoneBook.cs",
+              "RelativeToolTip": "Models\\PhoneBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:37:57.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T06:33:35.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:07:54.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:19:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhoneBooks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Index.cshtml",
+              "RelativeToolTip": "Views\\PhoneBooks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:24:13.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhoneBooks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Edit.cshtml",
+              "RelativeToolTip": "Views\\PhoneBooks\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T10:31:36.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhoneBooks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Details.cshtml",
+              "RelativeToolTip": "Views\\PhoneBooks\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T10:32:22.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhoneBooks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Create.cshtml",
+              "RelativeToolTip": "Views\\PhoneBooks\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T10:32:35.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhoneBooks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\PhoneBooks\\Delete.cshtml",
+              "RelativeToolTip": "Views\\PhoneBooks\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:22:51.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:14:52.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:05:59.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:20:45.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:39:48.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-26T02:12:16.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PhoneBook_App__Anandhu_JS",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\PhoneBook_App__Anandhu_JS.csproj",
+              "RelativeDocumentMoniker": "PhoneBook_App__Anandhu_JS.csproj",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\PhoneBook_App__Anandhu_JS.csproj",
+              "RelativeToolTip": "PhoneBook_App__Anandhu_JS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T10:03:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:05:34.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:30:47.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240526100031_second commit.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Migrations\\20240526100031_second commit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240526100031_second commit.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Migrations\\20240526100031_second commit.cs",
+              "RelativeToolTip": "Migrations\\20240526100031_second commit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:00:31.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240526071101_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Migrations\\20240526071101_Initial Create.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240526071101_Initial Create.cs",
+              "ToolTip": "C:\\Users\\anand\\OneDrive\\Documents\\Visual Studio\\PhoneBook_App__Anandhu_JS\\Migrations\\20240526071101_Initial Create.cs",
+              "RelativeToolTip": "Migrations\\20240526071101_Initial Create.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:11:01.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
